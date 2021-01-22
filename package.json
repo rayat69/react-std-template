@@ -4,7 +4,10 @@
     "keywords": [
       "react",
       "create-react-app",
-      "template"
+      "template",
+      "std",
+      "cra-template-std",
+      "prop-types"
     ],
     "description": "The standard template for Create React App.",
     "main": "template.json",
@@ -14,6 +17,11 @@
     },
     "bugs": {
       "url": "https://github.com/facebook/create-react-app/issues"
+    },
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/rayat69/react-std-template",
+      "directory": "/"
     },
     "files": [
       "template",
