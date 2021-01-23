@@ -7,7 +7,8 @@
       "template",
       "std",
       "cra-template-std",
-      "prop-types"
+      "prop-types",
+      "react-router-dom"
     ],
     "description": "The standard template for Create React App.",
     "main": "template.json",
