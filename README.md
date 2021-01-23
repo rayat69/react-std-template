@@ -1,5 +1,7 @@
 # cra-template-std
 
+Packages: [prop-types](https://www.npmjs.com/package/prop-types), [react-fontawesome](https://www.npmjs.com/package/@fortawesome/react-fontawesome), [react-router-dom](https://www.npmjs.com/package/react-router-dom), [node-sass](https://www.npmjs.com/package/node-sass)
+
 This is the standard base template for [Create React App](https://github.com/facebook/create-react-app).
 
 If you don't specify template (for example, `--template std`), this template will not be used by default.

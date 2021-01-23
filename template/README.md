@@ -4,8 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Template: [cra-template-std](https://github.com/rayat69/react-std-template).
 
-Packages: 
-
 ## Available Scripts
 
 In the project directory, you can run:
